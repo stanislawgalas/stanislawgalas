@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stanislawgalas
 - 👀 I’m interested in mathematics and science
-- 🌱 I’m currently learning Power BI
-- 💞️ I’m looking to collaborate on projects related to Power Apps
+- 🌱 I’m currently learning advanced topics in Power BI
+- 💞️ I like to collaborate on projects related to Power Apps
 - 📫 You can reach me via e-mail stanislaw.galas@gmail.com
 
 <!---
